@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/local/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.40 scan initiated Tue Jan 23 15:00:27 2018 as: nmap -sP -oX Usersnet.xml 10.10.204.0/24 -->
+<nmaprun scanner="nmap" args="nmap -sP -oX Usersnet.xml 10.10.204.0/24" start="1516737627" startstr="Tue Jan 23 15:00:27 2018" version="7.40" xmloutputversion="1.04">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.2" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="8038" rttvar="8038" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.3" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="10792" rttvar="10792" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.6" addrtype="ipv4"/>
+<hostnames>
+<hostname name="pbh7twc.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="10194" rttvar="10194" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.11" addrtype="ipv4"/>
+<hostnames>
+<hostname name="pb0287kb.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="11324" rttvar="11324" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.17" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="12004" rttvar="12004" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.18" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="11238" rttvar="11238" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.19" addrtype="ipv4"/>
+<hostnames>
+<hostname name="ltpc05mwey.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="11163" rttvar="11163" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.20" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="10299" rttvar="7767" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.21" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="12236" rttvar="12236" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.24" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="8813" rttvar="8813" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.25" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="16951" rttvar="16951" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.27" addrtype="ipv4"/>
+<hostnames>
+<hostname name="pb02rky1.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="9295" rttvar="9295" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.28" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="9257" rttvar="9257" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.30" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="16709" rttvar="16709" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.32" addrtype="ipv4"/>
+<hostnames>
+<hostname name="lt01pc0mcggw.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="9636" rttvar="9636" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.36" addrtype="ipv4"/>
+<hostnames>
+<hostname name="ssb-ldoyal.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="9561" rttvar="9561" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.38" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="8571" rttvar="8571" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.39" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="9811" rttvar="9811" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.40" addrtype="ipv4"/>
+<hostnames>
+<hostname name="ltpc0b4t8w.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="15163" rttvar="15163" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.44" addrtype="ipv4"/>
+<hostnames>
+<hostname name="ltpc040lqprl.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="15086" rttvar="15086" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.48" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="15012" rttvar="15012" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.49" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="17429" rttvar="17429" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.53" addrtype="ipv4"/>
+<hostnames>
+<hostname name="lt0012pc0b4vf4.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="17226" rttvar="17226" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.56" addrtype="ipv4"/>
+<hostnames>
+<hostname name="lt01pcr90p94xp.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="14546" rttvar="14546" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.58" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="15265" rttvar="15265" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.59" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="15229" rttvar="15229" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.63" addrtype="ipv4"/>
+<hostnames>
+<hostname name="ltpc0dtaz88.aotbedding.com" type="PTR"/>
+</hostnames>
+<times srtt="14374" rttvar="14374" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.70" addrtype="ipv4"/>
+<hostnames>
+<hostname name="corptr055.company.simmons.com" type="PTR"/>
+</hostnames>
+<times srtt="18062" rttvar="18062" to="100000"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.77" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="9843" rttvar="9843" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.102" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="16943" rttvar="16943" to="100000"/>
+</host>
+<host><status state="up" reason="syn-ack" reason_ttl="0"/>
+<address addr="10.10.204.210" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="25240" rttvar="25240" to="126200"/>
+</host>
+<host><status state="up" reason="conn-refused" reason_ttl="0"/>
+<address addr="10.10.204.254" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<times srtt="16937" rttvar="16937" to="100000"/>
+</host>
+<runstats><finished time="1516737636" timestr="Tue Jan 23 15:00:36 2018" elapsed="8.74" summary="Nmap done at Tue Jan 23 15:00:36 2018; 256 IP addresses (32 hosts up) scanned in 8.74 seconds" exit="success"/><hosts up="32" down="224" total="256"/>
+</runstats>
+</nmaprun>
